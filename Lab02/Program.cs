@@ -88,4 +88,3 @@ Console.WriteLine($"Level: {levelCom4}");
 Console.WriteLine($"Max HP: {maxHpCom4}");
 Console.WriteLine($"Attack Power: {attackPowerCom4}");
 Console.WriteLine($"Playable: {Playable4}");
-Console.WriteLine();
