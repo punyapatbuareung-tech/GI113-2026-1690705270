@@ -1,7 +1,7 @@
 /*
- * Student ID :
- * Name       :
- * Section    :
- * No.        :
+ * Student ID : 1690705270
+ * Name       : Punyapat Bouruang
+ * Section    : 129B
+ * No.        : 39
  * Course     : GI113 Computer Programming (GI)
  */
